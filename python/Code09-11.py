@@ -1,4 +1,6 @@
-## 함수 선언 부분 ##
+# -*- coding: utf-8 -*-
+
+# 함수 선언 부분 ##
 def para_func(v1, v2, v3=0) :
      result = 0
      result = v1 + v2 + v3

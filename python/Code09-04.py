@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 ## 함수 선언 부분 ##
 def plus( v1, v2) :
      result = 0

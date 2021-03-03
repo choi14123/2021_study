@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 ## 함수 선언 부분 ##
 def para_func(*para) :
      result = 0

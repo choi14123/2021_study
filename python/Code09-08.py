@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 ## 함수 선언 부분 ##
 def func1() :
      result = 100

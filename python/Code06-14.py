@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+1
 hap, i = 0,0
 
 for i in range(1, 101) :

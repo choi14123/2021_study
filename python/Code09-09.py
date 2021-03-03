@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 ## 함수 선언 부분 ##
 def multi(v1, v2) :
      retList=[]       # 반환할 리스트
