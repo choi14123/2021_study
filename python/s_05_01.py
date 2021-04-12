@@ -35,13 +35,4 @@ class Employ :
         print("잘못된 값 입니다.")
 
 
-a = Employ ("python", 7)
-a.salary()
-a.degree()
-a.money
-print(
-    a.name, a.salary_d)
-
-
-
 
