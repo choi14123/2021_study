@@ -9,7 +9,7 @@ def clickImage(event) :
 window = Tk()
 window.geometry("400x400")
 
-photo = PhotoImage(file = "c:/temp/gif/rabbit.gif")
+photo = PhotoImage(file = "/Users/choichanghwan/Desktop/GIF/")
 label1 = Label(window, image = photo)
 
 label1.bind("<Button>", clickImage)
