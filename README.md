@@ -1,6 +1,2 @@
-# 2021_study
-
-## BAEKJOON
-
-## PYTHON
+#Soongsil University Choi Chang Hwan 2021_study
 
