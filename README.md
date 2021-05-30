@@ -1,2 +1,1 @@
-# Soongsil University Choi Chang Hwan 2021_study
-
+## 2021_study
