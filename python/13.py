@@ -1,0 +1,15 @@
+import numpy as np
+
+n_arr = np.array([[0, 1, 2, 3, 4],[5, 6, 7, 8, 9], [10, 11, 12, 13, 14], [15, 16, 17, 18, 19], [20, 21, 22, 23, 24]])
+print(n_arr)
+print("첫원소 : ",end="")
+print(n_arr[0][0])
+print("마지막 원소 : ", end="")
+print(n_arr[-1][-1])
+tmp_arr = np.array(n_arr[0:2])
+print(tmp_arr)
+tmp_arr2 = np.array(n_arr[2:5])
+print(tmp_arr2)
+tmp_arr2 = np.array(n_arr[0:2])
+tmp_arr3 = tmp_arr2.reshape(5,2)
+print(tmp_arr3)
