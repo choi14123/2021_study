@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class NUM_8 {
+public class NUM_08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double num1 = sc.nextInt();
